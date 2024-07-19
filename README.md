@@ -1,11 +1,16 @@
 Objective:
+
 The primary objective of this project is to conduct a comprehensive data analysis of an E-commerce dataset, leveraging Python libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SQL. The aim is to extract valuable insights and answer key questions about customer behavior, sales trends, product categories, and seller performance.
 
+
 Dataset:
+
 The project utilizes an extensive E-commerce dataset containing customer information, orders, products, and sales data.
 
 Analysis Scope:
+
 The project is divided into three tiers of analysis:
+
 
 Basic Queries:
 
